@@ -1,0 +1,21 @@
+create user 'expmng'@'localhost' identified by 'expmng';
+
+grant all privileges on *.* to 'expmng'@'localhost';
+
+FLUSH PRIVILEGES;
+
+create database smart_expense_db;
+
+
+
+
+
+
+
+
+
+exit/quit;
+
+system cls;
+
+MySQL -u expmng -p
