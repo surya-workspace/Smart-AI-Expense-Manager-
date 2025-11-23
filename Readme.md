@@ -1,4 +1,4 @@
-Smart AI-Based Expense & Credit Card Management System
+# Smart AI-Based Expense & Credit Card Management System
 
 The Smart AI-Based Expense & Credit Card Management System is a web-based personal finance management application designed to help users track daily expenses, manage credit card usage, monitor bill payments, and receive intelligent AI-powered insights for better financial decision-making.
 
